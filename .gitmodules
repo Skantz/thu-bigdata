@@ -1,3 +1,6 @@
+[submodule "gridgraph/x-stream"]
+	path = gridgraph/x-stream
+	url = https://github.com/epfl-labos/x-stream
 [submodule "gridgraph/GridGraph"]
 	path = gridgraph/GridGraph
-	url = https://github.com/thu-pacman/GridGraph
+	url = https://github.com/coolerzxw/GridGraph
